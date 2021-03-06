@@ -1,2 +1,2 @@
 # Pokedex
-Pokedex criada em HTML CSS e JS
+Pokedex criada em HTML CSS e JS.
